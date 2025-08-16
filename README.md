@@ -1,11 +1,15 @@
-## Oie :)  
+## Oie :)
+
 <div style="display: inline_block"><br>
 <img align="right" height="190" width="200" src="https://media.discordapp.net/attachments/1367385894360842343/1406090081831489566/ezgif.com-animated-gif-maker.gif?ex=68a132ef&is=689fe16f&hm=9b4f7936ac4d91b2420f8408e3f628580fdf9585467e9b3a84f685503df9fa94" />
-Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo.  
-Apaixonada por tecnologia, focada em **Desenvolvimento Web** (Front-end, Back-end e Full Stack) e interessada em **Cybersegurança**.  
+
+Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo. 
+
+Apaixonada por tecnologia, focada em **Desenvolvimento Web** (Front-end, Back-end e Full Stack) e interessada em **Cybersegurança**.
 Atualmente estudando *Python*, **JavaScript** e práticas sustentáveis como **Green Code**.
 
-###
+- Confira abaixo as linguagens com que trabalho:
+
 
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
