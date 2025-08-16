@@ -8,7 +8,7 @@ Atualmente estudando **Python**, **JavaScript** e práticas sustentáveis como *
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 ##
-Contato: [LinkedIn](https://linkedin.com/in/seuusuario) | ✉️ sami_andrade@outlook.com.br - Ou clique nos icones abaixo!
+Contato: https://www.linkedin.com/in/samara-alanna-15019b23a/ | ✉️ sami_andrade@outlook.com.br - Ou clique nos icones abaixo!
 
 <a href="https://www.linkedin.com/in/samara-alanna-15019b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:sami_andrade@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
