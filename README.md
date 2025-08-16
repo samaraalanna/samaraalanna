@@ -6,7 +6,7 @@
 Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo. 
 
 Apaixonada por tecnologia, focada em **Desenvolvimento Web** (Front-end, Back-end e Full Stack) e interessada em **Cybersegurança**.
-Atualmente estudando *Python*, **JavaScript** e práticas sustentáveis como **Green Code**.
+Possuo familiaridade com **Python**, **JavaScript** e práticas sustentáveis como **Green Code**.
 
 - Confira abaixo as linguagens com que trabalho:
 
