@@ -1,7 +1,7 @@
 ## Oie :)
 
 <div style="display: inline_block"><br>
-<img align="right" height="190" width="200" src="https://media.discordapp.net/attachments/1367385894360842343/1406090081831489566/ezgif.com-animated-gif-maker.gif?ex=68a132ef&is=689fe16f&hm=9b4f7936ac4d91b2420f8408e3f628580fdf9585467e9b3a84f685503df9fa94" />
+<img align="right" height="190" width="200" src="https://media.discordapp.net/attachments/1367385894360842343/1406090081831489566/ezgif.com-animated-gif-maker.gif?ex=68a47eaf&is=68a32d2f&hm=b41654a0e307b4dd6a1d951cf3516dfbe388257132c06daddf16fde405a94a00&=" />
 
 Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo. 
 
