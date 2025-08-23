@@ -25,7 +25,7 @@ Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web** (Fro
 - Análise e desenvolvimento de sistemas EAD - Universidade Positivo com a Universidade Cruzeiro do Sul
 - Aluna da Alura, onde me faz estar sempre em aprendizado!
 
-────────────────────────────────୨ৎ────────────────────────────────
+--
 
 - Domínio de Git e GitHub (Certificado pela Alura)
 - Domínio de Lógica de programação (Certificado pela Alura)
