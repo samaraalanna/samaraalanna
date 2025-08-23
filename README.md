@@ -22,7 +22,7 @@ Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web** (Fro
 ## Informações úteis sobre mim como desenvolvedora:
 </div>
 
-- Análise e desenvolvimento de sistemas EAD - Universidade Positivo com a Universidade Cruzeiro do Sul
+- Curso Análise e desenvolvimento de sistemas EAD - Universidade Positivo com a Universidade Cruzeiro do Sul
 - Aluna da Alura, onde me faz estar sempre em aprendizado!
 
 --
