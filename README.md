@@ -8,16 +8,13 @@ Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web** (Fro
 
 </div>
 
-────────────────────────────────୨ৎ────────────────────────────────                                        
-
+────────────────────────────────୨ৎ──────────────────────────────
 <div align="left">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamaraAlanna&show_icons=true&theme=blue_navy" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraAlanna&layout=compact&theme=blue_navy" />
 
 ────────────────────────────────୨ৎ────────────────────────────────
-
----
 
 ## Informações úteis sobre mim como desenvolvedora:
 </div>
