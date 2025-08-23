@@ -8,6 +8,20 @@ Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas**
 Apaixonada por tecnologia, focada em **Desenvolvimento Web** (Front-end, Back-end e Full Stack) e interessada em **Cybersegurança**.
 Possuo familiaridade com **Python**, **JavaScript** e práticas sustentáveis como **Green Code**.
 
+</div>
+
+## 💻 Tecnologias e Linguagens que estou aprendendo
+
+- Repositórios de aprendizado com HTML, CSS e JavaScript.
+- Cursos de Desenvolvimento de Front-End e Ciência da Computação (CS50)
+- Exercícios de lógica de programação
+- 
+<div align="left">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamaraAlanna&show_icons=true&theme=blue_navy" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraAlanna&layout=compact&theme=blue_navy" />
+---
+
 - Confira abaixo as linguagens com que trabalho:
 
 <div style="display: inline_block"><br>
@@ -25,4 +39,12 @@ Possuo familiaridade com **Python**, **JavaScript** e práticas sustentáveis co
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamaraAlanna/SamaraAlanna/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Contatos
+
+- Email: sami_andrade@outlook.com.br
+- LinkedIn: https://www.linkedin.com/in/samara-alanna-15019b23a/
+
+> "Dê o primeiro passo para aprender algo novo."
+> - Obrigada por visitar o meu perfil!
 
