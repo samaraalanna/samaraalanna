@@ -54,5 +54,3 @@ Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web** (Fro
 
 ---
 
-> "Talento abre portas, mas disciplina mantém você lá."
-
