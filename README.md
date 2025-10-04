@@ -1,12 +1,8 @@
-## Oie :)
-<div style="display: inline_block"><br>
-<img align="right" height="190" width="200" src="https://media.discordapp.net/attachments/1367385894360842343/1406090081831489566/ezgif.com-animated-gif-maker.gif?ex=68a47eaf&is=68a32d2f&hm=b41654a0e307b4dd6a1d951cf3516dfbe388257132c06daddf16fde405a94a00&=" />
+### Oie :)
   
-Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo. 
+- Sou a **Samara Alanna**, estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo. 
 
-Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web** (Front-end, Back-end e Full Stack) e interessada em **Cybersegurança**.
-
-</div>
+- Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web Full Stack**.
 
 ────────────────────────────────୨ৎ──────────────────────────────
 <div align="left">
@@ -19,20 +15,28 @@ Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web** (Fro
 ## Informações úteis sobre mim como desenvolvedora:
 </div>
 
-- Curso Análise e desenvolvimento de sistemas EAD - Universidade Positivo com a Universidade Cruzeiro do Sul
-- Aluna da Alura, onde me faz estar sempre em aprendizado!
+- Estudante de Análise e desenvolvimento de sistemas EAD - Universidade Positivo
+- Especialista em Gerenciamento de Ameaças Cibernéticas pela Cisco.
 
 --
 
 - Domínio de Git e GitHub (Certificado pela Alura)
 - Domínio de Lógica de programação (Certificado pela Alura)
+- HTML5, CSS3 e JavaScript (Certificado pela Ada)
 
+## Linguagens
 <div style="display: inline_block"><br>
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   
----
+## Frameworks e ferramentas
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 <div>
 <picture>
@@ -45,9 +49,4 @@ Apaixonada por tecnologia e conhecimento, focada em **Desenvolvimento Web** (Fro
 
 - Email: sami_andrade@outlook.com.br
 - Linkedin: https://www.linkedin.com/in/samara-alanna-15019b23a/
-
-<a href="https://www.linkedin.com/in/samara-alanna-15019b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:sami_andrade@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
----
 
